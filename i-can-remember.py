@@ -5,7 +5,7 @@ def main():
         write()
 
     elif i == 'r':
-        print('Sorry, the programmer dosen\'t know how to do that yet. :)')
+        recieve()
         
     elif i == 'a':
         append()
@@ -29,6 +29,7 @@ def append():
     print('Success')
 
 def recieve():
-    pass
+    print('Sorry, the programmer dosen\'t know how to do that yet. :)')
+
 
 main()
