@@ -1,6 +1,5 @@
 #!/usr/bin/env python3.5
-# ^ This line is neccesary on linux. Tested with Ubuntu 16.04 LTS with python verion: 3.5.2-2ubuntu0~16.04.1u
-#You can remove if not needed
+# ^ This line is only needed if you wish to run the script from the linux terminal.
 
 def main():
     print('Hello, would you like to input, append or recieve info?')
